@@ -1,2 +1,3 @@
 *.ipynb_checkpoints
 mnist-classifier/MNIST_data
+mnist/input
